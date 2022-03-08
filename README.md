@@ -4,7 +4,7 @@
 
 ```
 docker-compose build
-docker-compose -d
+docker-compose up -d
 ```
 
 ## Open your browser 🚀
