@@ -1,0 +1,15 @@
+version: "3.8"
+
+networks:
+  my-network:
+
+services:
+  server-static-service:
+    build:
+      context: ./server
+      dockerfile: ./Dockerfile
+    container_name: server-static-container
+    ports:
+      - '80:80'
+    networks:
+      - my-network
