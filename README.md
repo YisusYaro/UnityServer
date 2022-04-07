@@ -1,5 +1,7 @@
 # UnityServer
 
+Copy your export webgl unity files into server/static/ to dockerize your game.
+
 ## Dev enviroment 📦
 
 ```
