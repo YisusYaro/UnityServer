@@ -22,4 +22,4 @@ docker-compose up -d
 This project is under the License described in the file [LICENSE](LICENSE)
 
 ---
-⌨️ con ❤️# UnityServer
+⌨️ with ❤️
